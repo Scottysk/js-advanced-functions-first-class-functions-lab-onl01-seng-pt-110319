@@ -1,3 +1,4 @@
 const returnFirstTwoDrivers = function(drivers) {
-  return firstDrivers = [drivers[0], drivers[1]];
+  let firstDrivers = [drivers[0], drivers[1]];
+  return firstDrivers;
 };
